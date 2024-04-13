@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on web development using python flask
+- 🤔 I’m looking for help with how the IP address in same network works
+- 💬 Ask me about c++
+- 📫 How to reach me: https://www.linkedin.com/in/deepika-vk-933366241/
 <!--
 **deepika-vk/deepika-vk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
