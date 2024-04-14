@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on web development using python flask
-- 🤔 I’m looking for help with how the IP address in same network works
+- 🤔 I’m looking for help with how the networking works
 - 💬 Ask me about c++
 - 📫 How to reach me: https://www.linkedin.com/in/deepika-vk-933366241/
 <!--
